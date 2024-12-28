@@ -1,0 +1,6 @@
+# this is the basing docker file to start the local ai platform
+services:
+  llm:
+    image: localai/localai:latest-aio-cpu
+    ports:
+      - "8080:8080"

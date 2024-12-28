@@ -1,0 +1,5 @@
+# let's add the basic paths to avoid adding them to the repository
+.env
+node_modules
+build
+coverage
