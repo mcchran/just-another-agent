@@ -3,3 +3,5 @@
 node_modules
 build
 coverage
+# let's skip all pyton cache files
+__pycache__/
